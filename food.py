@@ -11,9 +11,9 @@ import os
 # ==============================
 # KONFIGURASI DASAR
 # ==============================
-DASHSCOPE_API_KEY = 'sk-3267b1bc571f48f6aa26160953d4f387'
+DASHSCOPE_API_KEY = [API_KEY]
 dashscope.api_key = DASHSCOPE_API_KEY
-dashscope.base_http_api_url = 'https://dashscope-intl.aliyuncs.com/api/v1'
+dashscope.base_http_api_url = [API_URL]
 
 # ==============================
 # SETUP TAMPILAN UNIVERSAL
